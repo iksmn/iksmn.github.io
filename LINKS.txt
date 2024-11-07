@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=mIH_heuc1Y0
+
+como enviar para dois repositórios
+
+https://git-scm.com/docs/git-remote/pt_BR
+documentação
