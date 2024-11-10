@@ -6,12 +6,22 @@ categories: [documentation]
 tag: [start, jekyll, blog]
 ---
 
-# Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
-I hope you like it!
+Como já diz a linha acima, este é o primeiro post desse blog.
+Com o objetivos de ser um caderno de anotações e aprendizados sobre Engenharia e Ciência da Computação.
+Aos poucos será melhorado e as melhorias também serão publicadas em formato de post, exatamente para preservar o aprendizado.
 
+
+
+Como executar o servidor Jekyll via Terminal:
 ```console
-bundle excec jekyll s
+bundle exec jekyll s
 ```
+
+Esse blog foi publicado segundo o vídeo:
+
+https://www.youtube.com/watch?v=fX8d3SgdTbo
+
+E utilizando Jekyll, seguindo conselhos da Bolha Tech no Bluesky!
