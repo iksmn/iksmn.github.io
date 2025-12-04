@@ -15,6 +15,7 @@ Aos poucos será melhorado e as melhorias também serão publicadas em formato d
 
 Esse blog foi publicado segundo o vídeo:
 
+{% include embed/youtube.html id='fX8d3SgdTbo' %}
 https://www.youtube.com/watch?v=fX8d3SgdTbo
 
 E utilizando Jekyll, seguindo conselhos da Bolha Tech no Bluesky!
