@@ -16,6 +16,17 @@ Aos poucos será melhorado e as melhorias também serão publicadas em formato d
 Esse blog foi publicado segundo o vídeo:
 
 {% include embed/youtube.html id='fX8d3SgdTbo' %}
+
+Links de referência:
+
 https://www.youtube.com/watch?v=fX8d3SgdTbo
+
+https://geraldtui.com/posts/create-a-digital-garden/
+
+https://chirpy.cotes.page/
+
+https://github.com/cotes2020/jekyll-theme-chirpy
+
+https://github.com/cotes2020/chirpy-starter
 
 E utilizando Jekyll, seguindo conselhos da Bolha Tech no Bluesky!
