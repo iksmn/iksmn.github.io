@@ -31,7 +31,7 @@ Conforme solicitado pela documentação verifiquei se os pacotes estavam dispon�
 <br>
 Para instalar os pacotes usei o comando:
 
-```
+```bash
 sudo apt-get update -y && sudo apt-get upgrade -y
 sudo apt-get install -y curl git unzip xz-utils zip libglu1-mesa
 ```
@@ -46,28 +46,28 @@ Feito isso é necessário adicionar o Flutter ao caminho do sistema, que é o lo
 Nesse ponto é necessário descobrir qual Shell estou usando (O que é Shell e suas váriações é um tema que deverá ser estudado e publicado também).
 
 Para descobrir o Shell utilizei:
-```
+```bash
 $ echo $SHELL
 ```
 O resultado foi esse:
-```
+```bash
 /bin/bash
 ```
 
 O comando utilizado para adicionar o PATH utilizando Bash é:
 
-```
+```bash
 echo 'export PATH="$HOME/develop/flutter/bin:$PATH"' >> ~/.bashrc
 ```
 Após isso executei os comandos para verificar se a instalação no sistema e o PATH estavam correntos:
 
-```
+```bash
 flutter --version
 dart --version
 ```
 Sendo o resultado:
 
-```
+```bash
 Flutter 3.38.9 • channel stable • https://github.com/flutter/flutter.git
 Framework • revision 67323de285 (3 weeks ago) • 2026-01-28 13:43:12 -0800
 Engine • hash 5eb06b7ad5bb8cbc22c5230264c7a00ceac7674b (revision 587c18f873) (19
